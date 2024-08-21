@@ -1,0 +1,1 @@
+console.log('태주게이')
